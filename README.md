@@ -1,2 +1,3 @@
 # Raspberry-Pi-OS-64bit-
-Repository for containing issues on the 64 bit operating system (as distinct from the 32 bit one)
+
+This set of issues has now been archived.  This was originally proposed to communicate differences between 32b and 64b images, but has become more general and therefore is just putting issues into the wrong place.
